@@ -29,3 +29,8 @@
     text-align: center;
     padding: 3% 3%;
 }
+
+.cabecalho a:hover{
+    color: #000000;
+    background-color: #fff;
+}
