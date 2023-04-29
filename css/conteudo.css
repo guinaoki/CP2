@@ -10,8 +10,35 @@
     display: block;
 }
 
+.conteudo h2{
+    padding: 3% 0%;
+}
+
+.conteudo p{
+    padding: 0% 10% 10% 0%;
+}
+
+.conteudo figure figcaption{
+    padding: 2% 5% 0% 0%;
+}
+
 .conteudo > div{
     flex-grow: 1;
     flex-shrink: 1;
     flex-basis: 300px;
+}
+
+.conteudo-index img{
+    height: 12rem;
+    width: 20rem;
+}
+
+.conteudo-index2 img{
+    height: 12rem;
+    width: 20rem;
+}
+
+.conteudo-index3 img{
+    height: 17rem;
+    width: 17rem;
 }
