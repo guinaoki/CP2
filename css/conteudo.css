@@ -45,14 +45,14 @@
 
 
 .conteudo-games .p-games-gta5 {
-    display: inline-block;
+    display: flex;
     vertical-align: top;
     float: left;
     width: 60%;
     margin-right: 15%;
 }
 .conteudo-games .figure-games-2 img{
-    display: inline-block;
+    display: flex;
     float: left;
     width: 22%;;
 }
