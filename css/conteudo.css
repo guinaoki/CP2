@@ -15,7 +15,7 @@
 }
 
 .conteudo p{
-    padding: 0% 10% 10% 0%;
+    padding: 0% 5% 5% 0%;
 }
 
 .conteudo figure figcaption{
@@ -41,4 +41,18 @@
 .conteudo-index3 img{
     height: 17rem;
     width: 17rem;
+}
+
+
+.conteudo-games .p-games-gta5 {
+    display: inline-block;
+    vertical-align: top;
+    float: left;
+    width: 60%;
+    margin-right: 15%;
+}
+.conteudo-games .figure-games-2 img{
+    display: inline-block;
+    float: left;
+    width: 22%;;
 }
